@@ -1,0 +1,7 @@
+{
+    "speed": 10,
+    "hitpoints": 100,
+    "weapon": "maximumCannon2",
+    "arm": "closed",
+    "off_arm": "l_open"
+}

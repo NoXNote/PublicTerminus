@@ -1,0 +1,20 @@
+{
+    "barrels": [
+      {
+        "posx": 0.0,
+        "posy": 0.0,
+        "posz": 1.8
+      }
+    ],
+    "recoil": 400,
+    "rateDelay": 1,
+    "id": 3,
+    "type": 0,
+    "damage": 2000,
+    "flashSize": 2,
+    "maxAmmo": 6,
+    "reloadDuration": 8.0,
+    "bulletLook": ">",
+    "segmentCount": 6,
+    "sound": 4
+  }

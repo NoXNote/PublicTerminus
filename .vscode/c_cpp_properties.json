@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/msys64/mingw64/include/"
+            ],
+            "defines": [],
+            "cStandard": "gnu23",
+            "cppStandard": "gnu++23",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "C:/w64devkit/bin/g++.exe"
+        }
+    ],
+    "version": 4
+}

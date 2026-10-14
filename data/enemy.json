@@ -1,0 +1,55 @@
+{
+  "Head": [
+    {
+      "partname": "default",
+      "weight": 1
+    },
+    {
+      "partname": "default",
+      "weight": 1
+    }
+  ],
+  "Torso": [
+    {
+      "partname": "default",
+      "weight": 1
+    },
+    {
+      "partname": "default",
+      "weight": 1
+    }
+  ],
+  "speed": 10,
+  "hitpoints": 1000,
+  "type": "light",
+  "Leg": [
+    {
+      "partname": "default",
+      "weight": 1
+    },
+    {
+      "partname": "default",
+      "weight": 1
+    }
+  ],
+  "Arm": [
+    {
+      "partname": "default",
+      "weight": 1
+    },
+    {
+      "partname": "default",
+      "weight": 1
+    }
+  ],
+  "Gun": [
+    {
+      "partname": "e_minigun2",
+      "weight": 1
+    },
+    {
+      "partname": "e_maximumCannon2",
+      "weight": 1
+    }
+  ]
+}

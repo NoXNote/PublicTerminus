@@ -1,0 +1,7 @@
+WHAT I DID TO GET IT TO WORK ON WINDOWS
+
+Got MSYS2, installed CMAKE, CGAL, BOOST, EIGEN, GLM, GLFW (maybe), Mingw, set up the system environment variable for mingw, set the .env file to point to all the installs in mysy2, ran
+    cmake -G "MinGW Makefiles" -B build -S . --debug-trycompile
+then
+    mingw32-make -C build
+

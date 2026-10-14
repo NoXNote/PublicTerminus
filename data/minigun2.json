@@ -1,0 +1,25 @@
+{
+    "barrels": [
+      {
+        "posx": 0.003213,
+        "posy": 0.002217,
+        "posz": 1.35763
+      },
+      {
+        "posx": 0.179989,
+        "posy": 0.178993,
+        "posz": 1.28763
+      }
+    ],
+    "recoil": 10,
+    "rateDelay": 0.02,
+    "id": 5,
+    "type": 1,
+    "damage": 20,
+    "flashSize": 0.65,
+    "maxAmmo": 200,
+    "reloadDuration": 1.0,
+    "bulletLook": "-",
+    "segmentCount": 8,
+    "sound": 5
+  }

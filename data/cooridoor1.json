@@ -1,0 +1,106 @@
+{
+    "aabbs": [
+      {
+        "minx": -10.0,
+        "miny": -11.0,
+        "minz": 41.0,
+        "maxx": 34.7,
+        "maxy": -0.0,
+        "maxz": 46.0
+      },
+      {
+        "minx": 7.0,
+        "miny": -11.0,
+        "minz": 15.4,
+        "maxx": 34.7,
+        "maxy": -0.0,
+        "maxz": 28.0
+      },
+      {
+        "minx": -12.0,
+        "miny": -11.0,
+        "minz": 15.5,
+        "maxx": -7.0,
+        "maxy": -0.0,
+        "maxz": 47.0
+      },
+      {
+        "minx": 33.4,
+        "miny": -7.0,
+        "minz": 25.0,
+        "maxx": 34.7,
+        "maxy": -0.0,
+        "maxz": 29.0
+      },
+      {
+        "minx": 33.4,
+        "miny": -7.0,
+        "minz": 39.0,
+        "maxx": 34.7,
+        "maxy": -0.0,
+        "maxz": 44.0
+      },
+      {
+        "minx": -16.0,
+        "miny": -0.0,
+        "minz": 13.0,
+        "maxx": 41.0,
+        "maxy": 2.0,
+        "maxz": 50.0
+      },
+      {
+        "minx": 33.3,
+        "miny": -11.0,
+        "minz": 24.0,
+        "maxx": 34.7,
+        "maxy": -5.4,
+        "maxz": 44.0
+      },
+      {
+        "minx": -9.3,
+        "miny": -7.0,
+        "minz": 15.5,
+        "maxx": -5.3,
+        "maxy": -0.0,
+        "maxz": 16.5
+      },
+      {
+        "minx": -10.0,
+        "miny": -11.0,
+        "minz": 15.5,
+        "maxx": 10.0,
+        "maxy": -5.4,
+        "maxz": 16.9
+      },
+      {
+        "minx": 5.2,
+        "miny": -7.0,
+        "minz": 15.5,
+        "maxx": 9.2,
+        "maxy": -0.0,
+        "maxz": 16.5
+      }    
+    ],
+    "possiblestages": [
+      "cooridoor1"
+    ],
+    "doors": [
+      {
+        "posx": 0,
+        "posy": 0,
+        "posz": 16.5,
+        "rotxDeg": 180
+      },
+      {
+        "posx": 34.5,
+        "posy": 0,
+        "posz": 35.0,
+        "rotxDeg": 90
+      }
+    ],
+    "navmesh": "navmap2",
+    "stagemesh": "cooridoor2",
+    "enemydifficulty": 0,
+    "leveltype": 0,
+    "stagetype": "cooridoor"
+  }

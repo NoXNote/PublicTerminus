@@ -1,0 +1,17 @@
+{
+	"constituents": {  
+ 	"l_arm": "la_init",
+    "r_arm": "ra_init",
+    "l_leg": "ll_init",
+    "r_leg": "rl_init",
+    "torso": "torso_init",
+ 	"weapon": "dual_minigun"
+    },
+  
+	"max_hp": 550,
+  	"max_shield": 110,
+  	"recharge_rate": 10,
+  	"recharge_delay": 4,
+  	"speed": 1,
+  	"jump_height": 1
+}
